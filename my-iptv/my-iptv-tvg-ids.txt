@@ -198,6 +198,8 @@ blastPH.CNBC
 blastPH.Dreamworks
 blastPH.MTV.Live
 blastPH.MTV.90s
-Amazon.Entertainment.KoreanBlockbusters
-Amazon.Sports.HBOBoxing
-Amazon.Entertainment.HBOWest
+NBC.Sports.Bay.Area.us
+NBC.Sports.Boston.us
+NBC.Sports.California.us
+NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
+NBC.Sports.us
